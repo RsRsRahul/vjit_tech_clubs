@@ -3,13 +3,31 @@ body{
 }
 .top{
     background-image: url(./images/dss-picd.jpg);
-	background-image: url(./images/cc-picd.jpg);
-	background-image: url(./images/gdsc-picd.jpg);
+
+
     height: 80em;
     margin: 0px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.top2{
+    background-image: url(./images/cc-picd.jpg);
+    height: 80em;
+    margin: 0px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+top3{
+    background-image: url(./images/gdsc-picd.jpg);
+    height: 80em;
+    margin: 0px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 html{
     font-size: 62.5%;
